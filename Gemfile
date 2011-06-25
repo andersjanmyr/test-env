@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source :rubyforge
 
 
 # Specify your gem's dependencies in .gemspec
