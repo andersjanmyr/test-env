@@ -74,4 +74,5 @@ DEPENDENCIES
   jasmine
   rack-test
   rspec
+  sinatra
   test-env!
